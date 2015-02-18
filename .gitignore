@@ -831,3 +831,8 @@ download/鹿児島/鹿児島-輝北.csv
 download/鹿児島/鹿児島-阿久根.csv
 download/鹿児島/鹿児島-鹿児島.csv
 download/鹿児島/鹿児島-鹿屋.csv
+.project
+download
+download_2013
+.pydevproject
+org.eclipse.core.resources.prefs
