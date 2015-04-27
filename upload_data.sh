@@ -4,7 +4,7 @@ if test "$1" = "local"; then
 	server="localhost:12080"
 elif test "$1" = "test"; then
 	echo "開発・検証サーバへのインポートを行います"
-	server="jsolagri-market.appspot.com"
+	server="plumplan-dev.appspot.com"
 elif test "$1" = "honban"; then
 	echo "本番サーバへのインポートを行います"
 	server="plumplan-agri.appspot.com"
